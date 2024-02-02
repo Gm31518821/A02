@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gm31518821
+- 👋 Hi, I’m @GIO
 - 👀 I’m interested in learning how to code to create a website/
 - 🌱 I’m currently learning how to use Github for my class :)
 - 💞️ I’m looking to collaborate on professional growth.
